@@ -1,0 +1,59 @@
+.title {
+	margin-top: 30px;
+	text-align: center;
+	font-size: 45px;
+	color: purple;
+}
+
+.main-image {
+	width: 100%;
+	max-height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header {
+	position: relative;
+}
+
+.header-statistics {
+	margin-top: 30px;
+	text-align: center;
+	font-size: 45px;
+	color: purple;
+}
+
+.card-title-statistics {
+	font-size: 85px;
+	color: purple;
+}
+
+.forum-statistics {
+	margin-top: 80px;
+	margin-right: 20px;
+	display: flex;
+	justify-content: space-between;
+	overflow: auto;
+}
+
+.card-paragraph-statistics {
+	color: #f0f0f0;
+	font-size: 30px;
+}
+
+.developers-header {
+	margin-top: 30px;
+	text-align: center;
+	font-size: 45px;
+	color: purple;
+}
+
+.forum-developers {
+	margin-top: 80px;
+	margin-right: 20px;
+	display: flex;
+	justify-content: center;
+	overflow: auto;
+}
